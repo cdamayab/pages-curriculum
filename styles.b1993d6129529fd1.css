@@ -1,0 +1,1 @@
+:root{--content-min-width: 600px}body{display:flex;justify-content:flex-end;align-items:flex-end;min-height:100vh;height:100%}app-root{width:100%}app-footer{margin-top:100px;position:absolute;width:100%;min-width:600px}#app-content{width:50%;margin:0 auto}
