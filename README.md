@@ -1,1 +1,1 @@
-# pages-curriculum
+# GitHub Pages Repo for curriculum
